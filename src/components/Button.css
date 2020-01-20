@@ -24,6 +24,8 @@
 
 .button.triple {
     grid-column: span 3;
+    color: #fff;
+    background-color: #0e6385;
 }
 
 .button.operation {
