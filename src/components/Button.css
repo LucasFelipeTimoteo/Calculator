@@ -25,11 +25,12 @@
 .button.triple {
     grid-column: span 3;
     color: #fff;
-    background-color: #0e6385;
+    background-color: #1f72c0;
+
 }
 
 .button.operation {
-    background-color: #0e6385;
+    background-color: #1f72c0;
     color: #fff;
 }
 
