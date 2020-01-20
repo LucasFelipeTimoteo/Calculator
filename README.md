@@ -1,1 +1,1 @@
-a simple adaptation of a project based on the MacOs calculator
+Simple adaptation of a project based on the MacOs calculator
